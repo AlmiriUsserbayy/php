@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; background-color: #f4f6f9; color: #333; margin: 20px; }
+h1, h2 { color: #0056b3; }
+form { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; }
+select, input, button { padding: 8px; margin-right: 10px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px; }
+button { background-color: #0056b3; color: white; cursor: pointer; border: none; }
+button:hover { background-color: #004085; }
+table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+th { background-color: #0056b3; color: white; }
+.favorite-btn { background-color: #28a745; }
+.favorite-btn:hover { background-color: #218838; }
+.fav-list { background: #e2e3e5; padding: 10px; border-radius: 5px; }
